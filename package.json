@@ -1,0 +1,7 @@
+{
+"name":"logger",
+"description":"The logger",
+"version":"1.0.0",
+"main":"logger.js",
+"repository":{}
+}
