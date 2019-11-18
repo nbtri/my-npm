@@ -1,0 +1,7 @@
+{
+"name":"crypter",
+"description":"The crypter",
+"version":"1.0.0",
+"main":"crypter.js",
+"repository":{}
+}
